@@ -1,0 +1,26 @@
+# MATLAB-specific files
+*.asv
+*.m~
+*.mex*
+*.mat
+*.fig
+*.mdl
+*.slx
+*.slxc
+
+# MIT-BIH Arrhythmia Database
+mit-bih-arrhythmia-database-1.0.0/
+
+# Results and temporary files
+results/
+temp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# MATLAB autosave files
+*.asv
+
+# MATLAB project files
+*.prj
